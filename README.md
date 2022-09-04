@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# ml-microservice-kubernetes
-Project 4 submission
-=======
 <include a CircleCI status badge, here>
 
 ## Project Overview
@@ -52,4 +48,3 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
->>>>>>> e06a31f (Project upload)
